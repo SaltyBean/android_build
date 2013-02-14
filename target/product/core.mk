@@ -31,6 +31,7 @@ PRODUCT_PACKAGES += \
     HTMLViewer \
     Home \
     KeyChain \
+    LockClock \ 
     MediaProvider \
     PackageInstaller \
     PhotoTable \
