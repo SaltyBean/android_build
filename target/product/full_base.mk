@@ -24,6 +24,7 @@ PRODUCT_PACKAGES := \
     VideoEditor \
     WAPPushManager
 
+
 PRODUCT_PACKAGES += \
     Galaxy4 \
     HoloSpiralWallpaper \
@@ -32,7 +33,8 @@ PRODUCT_PACKAGES += \
     MagicSmokeWallpapers \
     NoiseField \
     PhaseBeam \
-    VisualizationWallpapers
+    VisualizationWallpapers \
+    PhotoTable 
 
 PRODUCT_PACKAGES += \
     libvideoeditor_jni \
