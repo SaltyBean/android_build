@@ -34,7 +34,6 @@ PRODUCT_PACKAGES += \
     LockClock \
     MediaProvider \
     PackageInstaller \
-    PhotoTable \
     PicoTts \
     SettingsProvider \
     SharedStorageBackup \
